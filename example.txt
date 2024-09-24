@@ -1,2 +1,4 @@
 This is an example
 learner 
+learning branch 
+learning conflict
